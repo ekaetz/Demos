@@ -1,0 +1,36 @@
+Graph Name,Plot Name,Plot Legend,Is Limit
+Frequency Response - Left Speaker,Frequency Response - Left Speaker,Left Speaker,No
+Frequency Response - Left Speaker,FreqResp Left Speaker LL,LL,Yes
+Frequency Response - Left Speaker,FreqResp Left Speaker UL,UL,Yes
+Frequency Response - Microphone,Frequency Response - Microphone,Microphone,No
+Frequency Response - Microphone,FreqResp Mic LL,LL,Yes
+Frequency Response - Microphone,FreqResp Mic UL,UL,Yes
+Frequency Response - Right Speaker,Frequency Response - Right Speaker,Right Speaker,No
+Frequency Response - Right Speaker,FreqResp Right Speaker LL,LL,Yes
+Frequency Response - Right Speaker,FreqResp Right Speaker UL,UL,Yes
+Frequency Response Raw- Microphone,Frequency Response Raw - Microphone,Microphone,No
+Frequency Response Raw - Left Ear Far Speaker,Frequency Response Raw - Left Ear Far Speaker,Left Ear Far Speaker,No
+Frequency Response Raw - Right Ear Far Speaker,Frequency Response Raw - Right Ear Far Speaker,Right Ear Far Speaker,No
+Frequency Response Raw - Right Speakers,Frequency Response Raw - Right Speaker,Right Speaker,No
+Frequency Response Raw - Left Speakers,Frequency Response Raw - Left Speaker,Left Speaker,No
+Noise Floor,Noise Floor,Noise Floor,No
+Noise Floor,Noise Floor UL,UL,Yes
+Normal Rub and Buzz - Left Speaker,Normal Rub and Buzz - Left Speaker,Left Speaker,No
+Normal Rub and Buzz - Left Speaker,Norm RubBuz UL,UL,Yes
+Normal Rub and Buzz - Right Speaker,Normal Rub and Buzz - Right Speaker,Right Speaker,No
+Normal Rub and Buzz - Right Speaker,Norm RubBuz UL,UL,Yes
+Normalized THD - Left Speaker,Normalized THD - Left Speaker,Left Speaker,No
+Normalized THD - Left Speaker,Norm THD UL,UL,Yes
+Normalized THD - Microphone,Normalized THD - Microphone,Microphone,No
+Normalized THD - Microphone,Norm THD Mic UL,UL,Yes
+Normalized THD - Right Speaker,Normalized THD - Right Speaker,Right Speaker,No
+Normalized THD - Right Speaker,Norm THD UL,UL,Yes
+Perceptual Rub and Buzz - Left Speaker,Perceptual Rub and Buzz - Left Speaker,Left Speaker,No
+Perceptual Rub and Buzz - Left Speaker,Percept RubBuz UL,UL,Yes
+Perceptual Rub and Buzz - Microphone,Perceptual Rub and Buzz - Microphone,Microphone,No
+Perceptual Rub and Buzz - Right Speaker,Perceptual Rub and Buzz - Right Speaker,Right Speaker,No
+Perceptual Rub and Buzz - Right Speaker,Percept RubBuz UL,UL,Yes
+Rub and Buzz - Left Speaker,Rub and Buzz - Left Speaker,Left Speaker,No
+Rub and Buzz - Microphone,Rub and Buzz - Microphone,Microphone,No
+Rub and Buzz - Right Speaker,Rub and Buzz - Right Speaker,Right Speaker,No
+THD Microphone,THD Microphone,Microphone,No

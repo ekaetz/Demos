@@ -1,0 +1,36 @@
+SoundCheck Name,Friendly Name
+LEFT_3rd,Frequency Response - Left Speaker
+LEFT_3rd_SHAPE Lower Limit,Frequency Response - Left Speaker LL
+LEFT_3rd_SHAPE Upper Limit,Frequency Response - Left Speaker UL
+L_UTAH_MIC_3rd,Frequency Response - Microphone
+LEFT_MIC_3rd_SHAPE Lower Limit,Frequency Response - Microphone LL
+LEFT_MIC_3rd_SHAPE Upper Limit,Frequency Response - Microphone UL
+RIGHT_3rd,Frequency Response - Right Speaker
+RIGHT_3rd_SHAPE Lower Limit,Frequency Response - Right Speaker LL
+RIGHT_3rd_SHAPE Upper Limit,Frequency Response - Right Speaker UL
+Fundamental [UTAH Left Mic] (L_UTAH_MICr),Frequency Response Raw - Microphone
+Fundamental [Reference Mic] (RON_LMICr),Frequency Response Raw - Left Ear Far Speaker
+Fundamental [DUT Mic] (LON_RMICr),Frequency Response Raw - Right Ear Far Speaker
+Fundamental [DUT Mic] (RIGHTr),Frequency Response Raw - Right Speaker
+Fundamental [Reference Mic] (LEFTr),Frequency Response Raw - Left Speaker
+Spectrum [Reference Mic] (NOISE_FLOOR),Noise Floor
+NOISE FLOOR Upper Limit [Reference Mic],Noise Floor UL
+Rub & Buzz Normalized [Reference Mic] (LEFTr),Normal Rub and Buzz - Left Speaker
+NormRUBBUZZ_LEFT Upper Limit [Reference Mic],Normal Rub and Buzz - Left Speaker UL
+Rub & Buzz Normalized [DUT Mic] (RIGHTr),Normal Rub and Buzz - Right Speaker
+NormRUBBUZZ_RIGHT Upper Limit [DUT Mic],Normal Rub and Buzz - Right Speaker UL
+THD Normalized [Reference Mic] (LEFTr),Normalized THD - Left Speaker
+Norm_THD_LEFT Upper Limit [Reference Mic],Normalized THD - Left Speaker UL
+THD Normalized [UTAH Left Mic] (L_UTAH_MICr),Normalized THD - Microphone
+Norm_THD_LEFT_MIC Upper Limit [UTAH Left Mic],Normalized THD - Microphone UL
+THD Normalized [DUT Mic] (RIGHTr),Normalized THD - Right Speaker
+Norm_THD_RIGHT Upper Limit [DUT Mic],Normalized THD - Right Speaker UL
+Perceptual Rub & Buzz [Reference Mic] (LEFTr),Perceptual Rub and Buzz - Left Speaker
+PerceptualRUBBUZZ_LEFT Upper Limit [Reference Mic],Perceptual Rub and Buzz - Left Speaker UL
+Perceptual Rub & Buzz [UTAH Left Mic] (L_UTAH_MICr),Perceptual Rub and Buzz - Microphone
+Perceptual Rub & Buzz [DUT Mic] (RIGHTr),Perceptual Rub and Buzz - Right Speaker
+PerceptualRUBBUZZ_RIGHT Upper Limit [DUT Mic],Perceptual Rub and Buzz - Right Speaker UL
+Rub & Buzz [Reference Mic] (LEFTr),Rub and Buzz - Left Speaker
+Rub & Buzz [UTAH Left Mic] (L_UTAH_MICr),Rub and Buzz - Microphone
+Rub & Buzz [DUT Mic] (RIGHTr),Rub and Buzz - Right Speaker
+THD [UTAH Left Mic] (L_UTAH_MICr),THD Microphone

@@ -1,0 +1,100 @@
+Order,Data Plot,UUT Component,Test,Limit Plot,Result Name,Fail Code Offset,Fail Code,Fail Description
+1,Noise Floor,Noise Floor,Noise Floor,Noise Floor UL,Noise Floor,150,110150,Background noise too high.  Turn off noise sources in the area.  Check for bad seals on the acoustic chamber (gaskets and selant at holes where cables pass through.
+2,Frequency Response - Left Speaker,Left Speaker,Frequency Response,FreqResp Left Speaker LL,Left Speaker Frequency Response LL,210,110210,Left Speaker Frequency Response Below LL
+3,Frequency Response - Left Speaker,Left Speaker,Frequency Response,FreqResp Left Speaker UL,Left Speaker Frequency Response UL,211,110211,Left Speaker Frequency Response Above UL
+4,Frequency Response - Right Speaker,Right Speaker,Frequency Response,FreqResp Right Speaker LL,Right Speaker Frequency Response LL,221,110221,Right Speaker Frequency Response Below LL
+5,Frequency Response - Right Speaker,Right Speaker,Frequency Response,FreqResp Right Speaker UL,Right Speaker Frequency Response UL,222,110222,Right Speaker Frequency Response Above UL
+6,Frequency Response - Microphone,Microphone,Frequency Response,FreqResp Mic LL,Microphone Frequency Response LL,200,110200,Microphone Frequency Response Below LL
+7,Frequency Response - Microphone,Microphone,Frequency Response,FreqResp Mic UL,Microphone Frequency Response UL,201,110201,Microphone Frequency Response Above UL
+8,Normalized THD - Left Speaker,Left Speaker,Normal THD,Norm THD 0-200 UL,Left Speaker Normal THD 0-200 UL,311,110311,"Left Speaker Normal THD 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+9,Normalized THD - Left Speaker,Left Speaker,Normal THD,Norm THD 201-800 UL,Left Speaker Normal THD 201-800 UL,312,110312,Left Speaker Normal THD 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+10,Normalized THD - Left Speaker,Left Speaker,Normal THD,Norm THD 801-6K UL,Left Speaker Normal THD 801-6K UL,313,110313,Left Speaker Normal THD 800 to 6000 Hz Above UL.   Possible faults: bad speaker metal grill.
+11,Normalized THD - Left Speaker,Left Speaker,Normal THD,Norm THD 6K-10K UL,Left Speaker Normal THD 6K-10K UL,314,110314,Left Speaker Normal THD 6K tp 10KHz Above UL.  Check for hight noise floor (due to seals on chamber).
+12,Normalized THD - Right Speaker,Right Speaker,Normal THD,Norm THD 0-200 UL,Right Speaker Normal THD 0-200 UL,321,110321,"Right Speaker Normal THD UL 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+13,Normalized THD - Right Speaker,Right Speaker,Normal THD,Norm THD 201-800 UL,Right Speaker Normal THD 201-800 UL,322,110322,Right Speaker Normal THD 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+14,Normalized THD - Right Speaker,Right Speaker,Normal THD,Norm THD 801-6K UL,Right Speaker Normal THD 801-6K UL,323,110323,Right Speaker Normal THD 800 to 6000 Hz Above UL.   Possible faults: bad speaker metal grill.
+15,Normalized THD - Right Speaker,Right Speaker,Normal THD,Norm THD 6K-10K UL,Right Speaker Normal THD 6K-10K UL,324,110324,Right Speaker Normal THD 6K tp 10KHz Above UL.  Check for hight noise floor (due to seals on chamber).
+16,Normalized THD - Microphone,Microphone,Normal THD,Norm THD Mic UL,Microphone Normal THD UL,300,110300,Microphone Normal THD Above UL
+17,Normal Rub and Buzz - Left Speaker,Left Speaker,Norm Rub and Buzz,Norm RubBuz 0-200 UL,Left Speaker Norm Rub and Buzz 0-200 UL,411,110411,"Left Speaker Norm Rub and Buzz 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+18,Normal Rub and Buzz - Left Speaker,Left Speaker,Norm Rub and Buzz,Norm RubBuz 201-800 UL,Left Speaker Norm Rub and Buzz 201-800 UL,412,110412,Left Speaker Norm Rub and Buzz 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+19,Normal Rub and Buzz - Left Speaker,Left Speaker,Norm Rub and Buzz,Norm RubBuz 801-2000 UL,Left Speaker Norm Rub and Buzz 1-2000 UL,413,110413,Left Speaker Norm Rub and Buzz 800 to 2000 Hz Above UL.   Possible faults: bad speaker metal grill.
+20,Normal Rub and Buzz - Right Speaker,Right Speaker,Norm Rub and Buzz,Norm RubBuz 0-200 UL,Right Speaker Norm Rub and Buzz 0-200 UL,421,110421,"Right Speaker Norm Rub and Buzz 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+21,Normal Rub and Buzz - Right Speaker,Right Speaker,Norm Rub and Buzz,Norm RubBuz 201-800 UL,Right Speaker Norm Rub and Buzz 201-800 UL,422,110422,Right Speaker Norm Rub and Buzz 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+22,Normal Rub and Buzz - Right Speaker,Right Speaker,Norm Rub and Buzz,Norm RubBuz 801-2000 UL,Right Speaker Norm Rub and Buzz 1-2000 UL,423,110423,Right Speaker Norm Rub and Buzz 800 to 2000 Hz Above UL.   Possible faults: bad speaker metal grill.
+23,Perceptual Rub and Buzz - Left Speaker,Left Speaker,Percep Rub and Buzz,Percept RubBuz 0-200 UL,Left Speaker Percep Rub and Buzz 0-200 UL,511,110511,"Left Speaker Percep Rub and Buzz 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+24,Perceptual Rub and Buzz - Left Speaker,Left Speaker,Percep Rub and Buzz,Percept RubBuz 201-800 UL,Left Speaker Percep Rub and Buzz 201-800 UL,512,110512,Left Speaker Percep Rub and Buzz 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+25,Perceptual Rub and Buzz - Left Speaker,Left Speaker,Percep Rub and Buzz,Percept RubBuz 801-6K UL,Left Speaker Percep Rub and Buzz 801-6K UL,513,110513,Left Speaker Percep Rub and Buzz 800 to 6000 Hz Above UL.   Possible faults: bad speaker metal grill.
+26,Perceptual Rub and Buzz - Left Speaker,Left Speaker,Percep Rub and Buzz,Percept RubBuz 6K-10K UL,Left Speaker Percep Rub and Buzz 6K-10K UL,514,110514,Left Speaker Percep Rub and Buzz 6K tp 10KHz Above UL.  Check for hight noise floor (due to seals on chamber).
+27,Perceptual Rub and Buzz - Right Speaker,Right Speaker,Percep Rub and Buzz,Percept RubBuz 0-200 UL,Right Speaker Percep Rub and Buzz 0-200 UL,521,110521,"Right Speaker Percep Rub and Buzz 0 to 200 Hz Above UL.  Possible faults: bad speaker, bad speaker to headstrap connection, bad headstrap constuction."
+28,Perceptual Rub and Buzz - Right Speaker,Right Speaker,Percep Rub and Buzz,Percept RubBuz 201-800 UL,Right Speaker Percep Rub and Buzz 201-800 UL,522,110522,Right Speaker Percep Rub and Buzz 200 to 800 Hz Above UL.   Possible faults: bad headstrap constuction.
+29,Perceptual Rub and Buzz - Right Speaker,Right Speaker,Percep Rub and Buzz,Percept RubBuz 801-6K UL,Right Speaker Percep Rub and Buzz 801-6K UL,523,110523,Right Speaker Percep Rub and Buzz 800 to 6000 Hz Above UL.   Possible faults: bad speaker metal grill.
+30,Perceptual Rub and Buzz - Right Speaker,Right Speaker,Percep Rub and Buzz,Percept RubBuz 6K-10K UL,Right Speaker Percep Rub and Buzz 6K-10K UL,524,110524,Right Speaker Percep Rub and Buzz 6K tp 10KHz Above UL.  Check for hight noise floor (due to sealsk on chamber).
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

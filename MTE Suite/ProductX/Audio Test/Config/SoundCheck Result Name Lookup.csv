@@ -1,0 +1,21 @@
+SoundCheck Name,New Name
+NOISE FLOOR [Reference Mic],Noise Floor
+LEFT_SENSITIVITY,Sensitivity - Left Speaker
+RIGHT_SENSITIVITY,Sensitivity - Right Speaker
+CHANNEL_BALANCE,Left and Right Speaker Balance
+LEFT_ASSIGNMENT,Channel Assignment - Left Speaker
+RIGHT_ASSIGNMENT,Channel Assignment - Right Speaker
+LEFT_MIC_SENSITIVITY,Sensitivity  - Microphone
+LEFT_POLARITY [Reference Mic],Polarity - Left Speaker
+RIGHT_POLARITY [DUT Mic],Polarity - Right Speaker
+LEFT_MIC_POLARITY [UTAH Left Mic],Polarity - Microphone
+LEFT_3rd_SHAPE,Frequency Response - Left Speaker
+RIGHT_3rd_SHAPE,Frequency Response - Right Speaker
+Norm_THD_LEFT [Reference Mic],Normalized THD - Left Speaker
+Norm_THD_RIGHT [DUT Mic],Normalized THD - Right Speaker
+PerceptualRUBBUZZ_LEFT [Reference Mic],Perceptual Rub and Buzz - Left Speaker
+PerceptualRUBBUZZ_RIGHT [DUT Mic],Perceptual Rub and Buzz - Right Speaker
+NormRUBBUZZ_LEFT [Reference Mic],Normal Rub and Buzz - Left Speaker
+NormRUBBUZZ_RIGHT [DUT Mic],Normal Rub and Buzz - Right Speaker
+LEFT_MIC_3rd_SHAPE,Frequency Response - Microphone
+Norm_THD_LEFT_MIC [UTAH Left Mic],Normalized THD - Microphone

@@ -1,0 +1,19 @@
+Option,Description
+Can Access Station Module,Level 0 = the button and menu item to open the station control module is not available.  Level 1 (or higher) = the station module can be opened.
+Can Auto Repeat Sequence,"Level 0 = Disabled, Level 1 = Enabled (Seq Auto Start controls are enabled)."
+Can Clear Errors,Level 0 = the button to clear errors is disabled.  Level 1 (or higher) = the button to clear errors is enabled.
+Can Clear Warnings,Level 0 = the button to clear warnings is disabled.  Level 1 (or higher) = the button to clear warnings is enabled.
+Can Edit EQ List,Level 0 = the Equipment list can not be edited.  Level 1 (or higher) = the Equipment list can be edited.
+Can Edit Options,Level 0 = the controls for options (on tab page Config - Options) is disabled.  Level 1 (or higher) = the controls for options (on tab page Config - Options) is enabled.
+Can Generate Reports,Level 0 = the controls to generate RTF or CSV reports are disabled.  Level 1 (or higher) = the controls to generate RTF or CSV reports are enabled.
+Can Open Data Folders,"Level 0 = Disabled, Level 1 = Enabled (Menu->Data is enabled)."
+Can Select Sequence,Level 0 = the controls for selecting the test sequence is disabled.  The default sequence (configured) is the only available sequenct that can be run. Level 1 (or higher) = the sequence selector control is enabled.
+Can View Config,Level 0 = the tab page for Config is hidden.  Level 1 (or higher) = the tab page for Config is visible and can eb selected.
+Disable Metrics,"Enable/Disable tracking of test station pass, fail, error counts and % yield."
+Disable Results,Level 0 = test results are reported for each test to Factory and to Data Warehouse).  Level 1 (or higher) = no results are reported.
+Disable Start with SN Entry,Level 0 = the control to auto start test when a SN is entered is set to ON and can not be changed.  Level 1 (or higher) = the control to auto start test when a SN is entered is set to OFF and can be changed by the operator.
+Display Result Data Details,"Level 0 =  The operator can only view the summary page.  Level 1 (or higher) = the tabs of the result section will be displayed and the operator can select to view the Summary, Details or th eImage page."
+Not Reset SN Between Tests,Level 0 = the SN field is cleared between tests.  Level 1 (or higher) = the SN remains the same between tests.
+Not Validate Operator,Enable/Disable check of the Operator field to verify it is not empty.  Start button is diusabled until this cvheck passes.
+Not Validate SN,Enable/Disable check of the SN field to verify it is not empty.  Start button is diusabled until this cvheck passes.
+SN Route Check,Enable/Disable checking Factory Logix to verify the UUT is at the correct process step.

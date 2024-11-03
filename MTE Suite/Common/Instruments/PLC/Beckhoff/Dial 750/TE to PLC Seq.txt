@@ -1,0 +1,25 @@
+Wait for Ready=T
+
+Read Nest
+Read SN
+
+
+Set Ready to F
+
+
+Start Test
+
+When Need Track Obj to Spin
+Set Start to T
+Wait for Start to go F
+Run Test
+
+PLC will set Running to T
+  Spin objects
+PLC will set Runnign to F
+
+
+TE Test Complete
+Set PASS to T for Pass and F for fail
+
+Set Done to True
